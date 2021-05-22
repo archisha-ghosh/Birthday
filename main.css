@@ -95,13 +95,15 @@ body {
   height: 128px;
   margin: 0 auto 30px;
   border-radius: 50%;
-  background-color: #FFF;
-  border: 10px solid #FFF;
+  background-color: rgb(184, 92, 92);
+  background-image: url(images3.jpg);
+  border: 10px solid rgb(155, 2, 2);
   object-fit: cover;
+
 }
 
 .card__header h2 {
-  color: #FFF;
+  color: rgb(255, 255, 255);
   font-size: 32px;
   font-weight: 900;
   text-transform: uppercase;
