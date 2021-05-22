@@ -1,6 +1,6 @@
 :root {
-  --primary: #FFCE00;
-  --secondary: #FE4880;
+  --primary: #FF2400;
+  --secondary: #DC143C;
   --dark: #212121;
   --light: #F3F3F3;
 }
@@ -14,7 +14,8 @@ body {
   font-family: montserrat, sans-serif;
   width: 100%;
   min-height: 100vh;
-}
+  background-image:url(image1.jpg);
+  }
 
 .card {
   margin: 100px auto 0;
@@ -95,7 +96,7 @@ body {
   margin: 0 auto 30px;
   border-radius: 50%;
   background-color: #FFF;
-  border: 5px solid #FFF;
+  border: 10px solid #FFF;
   object-fit: cover;
 }
 
